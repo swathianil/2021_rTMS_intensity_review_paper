@@ -37,10 +37,10 @@ Relevant variables are coded as follows:
 
 * `pdf_name` - <first author>_<year of publication>_<journal abbreviation>_<pubmed id>
 * `typ` - type of rTMS
-** rTMS: conventional rTMS (e.g., 1 Hz, 10 Hz, etc.)
-** iTBS: intermittent theta burst stimulation
-** cTBS: continuous theta burst stimulation 
-** QPS: quadripulse stimulation
+- rTMS: conventional rTMS (e.g., 1 Hz, 10 Hz, etc.)
+- iTBS: intermittent theta burst stimulation
+- cTBS: continuous theta burst stimulation 
+- QPS: quadripulse stimulation
 * `frq` - intraburst frequency 
 * `si_app` - stimulation intensity selection approach 
 ** AMT: active motor threshold
