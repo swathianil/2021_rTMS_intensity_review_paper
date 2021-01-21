@@ -43,23 +43,23 @@ Relevant variables are coded as follows:
 	- QPS: quadripulse stimulation
 * `frq` - intraburst frequency 
 * `si_app` - stimulation intensity selection approach 
-	** AMT: active motor threshold
-	** RMT: resting motor threshold
-	** MT: unspecified motor threshold
-	** FL: functional lesion
-	** PT: phosphene threshold
-	** FXD: fixed intensity
-	** EF: electric field
+	- AMT: active motor threshold
+	- RMT: resting motor threshold
+	- MT: unspecified motor threshold
+	- FL: functional lesion
+	- PT: phosphene threshold
+	- FXD: fixed intensity
+	- EF: electric field
 * `th_strat` - threshold-estimation strategies 
-** ML: method of limit
-** 5STEP: 5 step procedure
-** TH: threshold hunting
-** MLTH: maximum likelihood based TH
-** PEST: parameter estimation by sequential testing
-** MTAT: TMS Motor Threshold Assessment Tool
+	- ML: method of limit
+	- 5STEP: 5 step procedure
+	- TH: threshold hunting
+	- MLTH: maximum likelihood based TH
+	- PEST: parameter estimation by sequential testing
+	- MTAT: TMS Motor Threshold Assessment Tool
 * `th_meas` - threshold measurement 
-** E: electrode
-** V: visual
+	- E: electrode
+	- V: visual
 * `mt_uV` - amplitude of the motor evoked potential in microvolt 
 * `th_ri` - threshold ratio (e.g., 3_6: 3 out of 6)
 * `mt_contr` -percentage or the amplitude of the motor threshold contraction (e.g., 10%-10% of the maximum contraction)
