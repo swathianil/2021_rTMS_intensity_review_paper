@@ -1,0 +1,32 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 18363)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=German_Germany.1252  LC_CTYPE=German_Germany.1252    LC_MONETARY=German_Germany.1252 LC_NUMERIC=C                   
+[5] LC_TIME=German_Germany.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] ggpubr_0.4.0           svglite_1.2.3.2        treemapify_2.5.5       hablar_0.3.0           RISmed_2.2            
+ [6] extrafont_0.17         rlang_0.4.10           pdfsearch_0.3.0        intrval_0.1-2          ggalluvial_0.12.3     
+[11] viridis_0.5.1          viridisLite_0.3.0      writexl_1.3.1          readxl_1.3.1           lubridate_1.7.9.2     
+[16] tidytext_0.3.0         forcats_0.5.0          stringr_1.4.0          dplyr_1.0.2            purrr_0.3.4           
+[21] readr_1.4.0            tidyr_1.1.2            tibble_3.0.4           ggplot2_3.3.3          tidyverse_1.3.0       
+[26] plyr_1.8.6             reshape2_1.4.4         ProjectTemplate_0.10.0
+
+loaded via a namespace (and not attached):
+ [1] fs_1.5.0          httr_1.4.2        SnowballC_0.7.0   tools_4.0.3       backports_1.2.0   utf8_1.1.4        R6_2.5.0         
+ [8] DBI_1.1.0         colorspace_2.0-0  withr_2.3.0       tidyselect_1.1.0  gridExtra_2.3     curl_4.3          compiler_4.0.3   
+[15] extrafontdb_1.0   cli_2.2.0         rvest_0.3.6       xml2_1.3.2        labeling_0.4.2    scales_1.1.1      askpass_1.1      
+[22] digest_0.6.27     systemfonts_0.3.2 foreign_0.8-80    rio_0.5.16        pkgconfig_2.0.3   dbplyr_2.0.0      rstudioapi_0.13  
+[29] farver_2.0.3      generics_0.1.0    jsonlite_1.7.2    zip_2.1.1         tokenizers_0.2.1  car_3.0-10        magrittr_2.0.1   
+[36] Matrix_1.2-18     Rcpp_1.0.5        munsell_0.5.0     fansi_0.4.1       abind_1.4-5       ggfittext_0.9.0   gdtools_0.2.3    
+[43] lifecycle_0.2.0   stringi_1.5.3     carData_3.0-4     grid_4.0.3        crayon_1.3.4      lattice_0.20-41   haven_2.3.1      
+[50] hms_0.5.3         pillar_1.4.7      ggsignif_0.6.0    reprex_0.3.0      glue_1.4.2        pdftools_2.3.1    qpdf_1.1         
+[57] data.table_1.13.6 modelr_0.1.8      vctrs_0.3.6       Rttf2pt1_1.3.8    cellranger_1.1.0  gtable_0.3.0      assertthat_0.2.1 
+[64] xfun_0.20         openxlsx_4.2.3    broom_0.7.3       rstatix_0.6.0     janeaustenr_0.1.5 tinytex_0.28      ellipsis_0.3.1 
