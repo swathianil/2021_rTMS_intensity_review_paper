@@ -35,21 +35,21 @@ The `.R` scripts located in `data` load the raw files into `R` workspace.
 
 Relevant variables are coded as follows:
 
-* `pdf_name` - <first author>_<year of publication>_<journal abbreviation>_<pubmed id>
+* `pdf_name` - format: firstAuthor_yearOfPublication_journal_pubmedID
 * `typ` - type of rTMS
-- rTMS: conventional rTMS (e.g., 1 Hz, 10 Hz, etc.)
-- iTBS: intermittent theta burst stimulation
-- cTBS: continuous theta burst stimulation 
-- QPS: quadripulse stimulation
+	- rTMS: conventional rTMS (e.g., 1 Hz, 10 Hz, etc.)
+	- iTBS: intermittent theta burst stimulation
+	- cTBS: continuous theta burst stimulation 
+	- QPS: quadripulse stimulation
 * `frq` - intraburst frequency 
 * `si_app` - stimulation intensity selection approach 
-** AMT: active motor threshold
-** RMT: resting motor threshold
-** MT: unspecified motor threshold
-** FL: functional lesion
-** PT: phosphene threshold
-** FXD: fixed intensity
-** EF: electric field
+	** AMT: active motor threshold
+	** RMT: resting motor threshold
+	** MT: unspecified motor threshold
+	** FL: functional lesion
+	** PT: phosphene threshold
+	** FXD: fixed intensity
+	** EF: electric field
 * `th_strat` - threshold-estimation strategies 
 ** ML: method of limit
 ** 5STEP: 5 step procedure
