@@ -1,4 +1,4 @@
-# 2020_cfc_tacs
+# Description
 Code and raw data for our paper "Selecting stimulation intensity in repetitive transcranial magnetic stimulation studies: A systematic review between 1991 and 2020"
 
 If you want to use this data/analysis in a research publication, please cite [our preprint](https://www.biorxiv.org/content/10.1101/2020.09.28.316190v1).
@@ -54,7 +54,7 @@ Relevant variables are coded as follows:
 	- ML: method of limit
 	- 5STEP: 5 step procedure
 	- TH: threshold hunting
-	- MLTH: maximum likelihood based TH
+	- MLTH: maximum likelihood based threshold hunting
 	- PEST: parameter estimation by sequential testing
 	- MTAT: TMS Motor Threshold Assessment Tool
 * `th_meas` - threshold measurement 
