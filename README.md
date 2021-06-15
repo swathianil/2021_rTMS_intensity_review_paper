@@ -1,19 +1,23 @@
-# Description
+# Selecting stimulation intensity in repetitive transcranial magnetic stimulation studies: A systematic review between 1991 and 2020
 Code and raw data for our paper "Selecting stimulation intensity in repetitive transcranial magnetic stimulation studies: A systematic review between 1991 and 2020"
 
-If you want to use this data/analysis in a research publication, please cite [our preprint](https://www.biorxiv.org/content/10.1101/2020.09.28.316190v1).
+If you want to use this data/analysis in a research publication, please cite [our paper](https://pubmed.ncbi.nlm.nih.gov/33754397/).
+
+Here, you can find the [preprint](https://www.biorxiv.org/content/10.1101/2020.09.28.316190v1) of the paper.
+
+## Citation
+Turi Z, Lenz M, Paulus W, Mittner M, Vlachos A. Selecting stimulation intensity in repetitive transcranial magnetic stimulation studies: A systematic review between 1991 and 2020. Eur J Neurosci. 2021 May;53(10):3404-3415. doi: 10.1111/ejn.15195. Epub 2021 Apr 10. PMID: 33754397.
 
 ~~~{bibtex}
-@article {Turi2020.09.28.316190,
-	author = {Turi, Zsolt and Lenz, Maximilian and Paulus, Walter and Mittner, Matthias and Vlachos, Andreas},
-	title = {Selecting stimulation intensity in repetitive transcranial magnetic stimulation studies: A systematic review between 1991 and 2020},
-	elocation-id = {2020.09.28.316190},
-	year = {2020},
-	doi = {10.1101/2020.09.28.316190},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2020/10/01/2020.09.28.316190},
-	eprint = {https://www.biorxiv.org/content/early/2020/10/01/2020.09.28.316190.full.pdf},
-	journal = {bioRxiv}
+@article{turi2021selecting,
+  title={Selecting stimulation intensity in repetitive transcranial magnetic stimulation studies: A systematic review between 1991 and 2020},
+  author={Turi, Zsolt and Lenz, Maximilian and Paulus, Walter and Mittner, Matthias and Vlachos, Andreas},
+  journal={Eur J Neurosci},
+  volume={53},
+  number={10},
+  pages={3404--3415},
+  year={2021},
+  publisher={Wiley-Blackwell}
 }
 ~~~
 
